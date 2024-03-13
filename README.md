@@ -1,4 +1,7 @@
-# Asum_project
+# Asum_project(아숨: 아직도 숨어있나)
+<p align="center">
+    <img src="https://github.com/JiEunyoung/hoi_kiosk_project/assets/137987981/28231572-4700-4d74-b6e1-5be7fe678740"/>
+</p>
 전문가 매칭 서비스 플랫폼
 
 ## 💻 프로젝트 소개
