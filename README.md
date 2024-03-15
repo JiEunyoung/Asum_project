@@ -47,3 +47,4 @@ etc.<br>
 
 
 ## 📌 실행 화면
+<img src="https://github.com/JiEunyoung/hoi_kiosk_project/assets/137987981/f35b1686-f61a-4418-b4dd-969b8e71b64e"/>
