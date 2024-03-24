@@ -52,7 +52,7 @@ etc.<br>
 | :----------------: | :----------------: | :----------------: |
 |**[메인 화면]**|**[견적서 작성 화면]**|**[채팅 화면]**|
 
-| <img src="https://github.com/JiEunyoung/Asum_project/assets/137987981/1960ba37-2eed-4540-be90-950ab80d74f0"/> | <img src="https://github.com/JiEunyoung/Asum_project/assets/137987981/a7b214e3-2b72-4081-bcf5-9dd8e1caf7fa"/> | <img src="https://github.com/JiEunyoung/Asum_project/assets/137987981/8c1368a4-752e-40c0-ae93-cb1d3ccff955"/> |
+| <img src="https://github.com/JiEunyoung/Asum_project/assets/137987981/1960ba37-2eed-4540-be90-950ab80d74f0"/> | <img src="https://github.com/JiEunyoung/Asum_project/assets/137987981/ed57cf65-7806-46cd-a7db-41578c78fedd"/> | <img src="https://github.com/JiEunyoung/Asum_project/assets/137987981/8c1368a4-752e-40c0-ae93-cb1d3ccff955"/> |
 | :----------------: | :----------------: | :----------------: |
 |**[커뮤니티 화면]**|**[일류 프로필 작성 화면]**|**[일류 프로필 확인 화면]**|
 
@@ -60,6 +60,6 @@ etc.<br>
 | :----------------: | :----------------: | :----------------: |
 |**[일류 검색 화면]**|**[리뷰 작성 화면]**|**[회원 관리 화면]**|
 
-| <img src="https://github.com/JiEunyoung/Asum_project/assets/137987981/9bb44149-4932-4705-9009-8529c5077958"/> | <img src="https://github.com/JiEunyoung/Asum_project/assets/137987981/a79aa7db-d5b8-4f4f-b215-50ae597ec0d1"/> | <img src="https://github.com/JiEunyoung/Asum_project/assets/137987981/f4bcece7-ae1b-4a44-8079-b3613daa6caa"/> |
+| <img src="https://github.com/JiEunyoung/Asum_project/assets/137987981/9309e89c-e0ae-4458-85fe-13d7aae626ce"/> | <img src="https://github.com/JiEunyoung/Asum_project/assets/137987981/a79aa7db-d5b8-4f4f-b215-50ae597ec0d1"/> | <img src="https://github.com/JiEunyoung/Asum_project/assets/137987981/f4bcece7-ae1b-4a44-8079-b3613daa6caa"/> |
 | :----------------: | :----------------: | :----------------: |
 |**[카테고리 관리 화면]**|**[포트폴리오 관리 화면]**|**[신고 관리 화면]**|
